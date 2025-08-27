@@ -1,0 +1,4 @@
+--Example--
+* ^___^ *
+ABC = abc.
+The end :-)

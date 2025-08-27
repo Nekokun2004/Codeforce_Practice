@@ -1,0 +1,15 @@
+def simulate_queue(s, n, t):
+    s = list(s)
+    for _ in range(t):
+        i = 0
+        while i < n - 1:
+            if s[i] == 'B' and s[i + 1] == 'G':
+                s[i], s[i + 1] = s[i + 1], s[i]
+                i += 2
+            else:
+                i += 1
+    return "".join(s)
+
+n, t = map(int, input().split())
+s = input().strip()
+print(simulate_queue(s, n, t))
