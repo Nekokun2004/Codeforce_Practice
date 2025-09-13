@@ -3,10 +3,13 @@ import functools
     function=อะไรก็ได้ที่ต้องการทำเรื่อยๆ จนกว่าจะสิ้นสุดlist
     iterable=เป็นlistที่ต้องการหรือค่าที่ต้องการเอามาเข้าฟังก์ชัน
     initializer=เอาไว้กำหนดค่าเริ่มต้น เช่น 1
-    groupby=เอาไว้แบ่งแยกกลุ่มอย่างชัดเจนเช่น 665566 จะได้ ['66', '55', '66'] วิธีใช้ก็ groups = [''.join(g) for _, g in groupby(s)]
+    
 
 import operator 
   .mul=เอาไว้ใช้คูณเหมือนกับการกำหนดเป็นแบบฟังก์ชัน(lambda x, y: x * y)
+
+import itertools
+  .groupby=เอาไว้แบ่งแยกกลุ่มอย่างชัดเจนเช่น 665566 จะได้ ['66', '55', '66'] วิธีใช้ก็ groups = [''.join(g) for _, g in groupby(s)]
 
 import collections  
   .Couter(lst)=นับตัวอักษรภายในlistผลลัพธ์ที่ได้คือdict
