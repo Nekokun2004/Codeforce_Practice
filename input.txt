@@ -1,116 +1,29 @@
-1
-D
-2
-DD
-3
-DDD
-4
-DDDD
-4
-DDDL
-4
-DDDR
-4
-DDDU
-3
-DDL
-4
-DDLD
-4
-DDLL
-4
-DDLR
-4
-DDLU
-3
-DDR
-4
-DDRD
-4
-DDRL
-4
-DDRR
-4
-DDRU
-3
-DDU
-4
-DDUD
-4
-DDUL
-4
-DDUR
-4
-DDUU
-2
-DL
-3
-DLD
-4
-DLDD
-4
-DLDL
-4
-DLDR
-4
-DLDU
-3
-DLL
-4
-DLLD
-4
-DLLL
-4
-DLLR
-4
-DLLU
-3
-DLR
-4
-DLRD
-4
-DLRL
-4
-DLRR
-4
-DLRU
-3
-DLU
-4
-DLUD
-4
-DLUL
-4
-DLUR
-4
-DLUU
-2
-DR
-3
-DRD
-4
-DRDD
-4
-DRDL
-4
-DRDR
-4
-DRDU
-3
-DRL
-4
-DRLD
-4
-DRLL
-4
-DRLR
-4
-DRLU
-3
-DRR
-4
-DRRD
-4
-DRRL
-4
-DRRR
+14
+1 0
+a
+2 0
+ab
+2 1
+ba
+3 1
+abb
+3 2
+abc
+6 2
+bacacd
+6 2
+fagbza
+6 2
+zwaafa
+7 2
+taagaak
+14 3
+ttrraakkttoorr
+5 3
+debdb
+5 4
+ecadc
+5 3
+debca
+5 3
+abaac
